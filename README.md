@@ -10,5 +10,6 @@
 * git init
 * git add .
 * git commit -m 'add'
-* git remote add origin https://github.com/xxx.com
+* git remote add origin https://github.com/JX-Zhuang/myblog.git
 * git push -u origin master
+> 删除远程文件 git rm -r --cached README.md
